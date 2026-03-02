@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: #ff6f00;
+}
+
+*{
+    font-family: comic sans MS;
+}
